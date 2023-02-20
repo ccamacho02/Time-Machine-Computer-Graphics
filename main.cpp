@@ -77,6 +77,7 @@ public:
 
             miTriangulo->DibujarTriangulos(0, 3, 0);
       
+            miCola->DibujarCola(13, 1, 1, 1);
 
         glPopMatrix();
 
